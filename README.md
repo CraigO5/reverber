@@ -72,15 +72,11 @@ The app will run on http://localhost:3000.
 
 ## Usage
 
-Open the app in your browser.
-
-Drag and drop a .wav file into the upload area.
-
-Select the desired reverb type.
-
-Click Apply Reverb to process the audio.
-
-Download the reverberated file when prompted.
+- Open the app in your browser.
+- Drag and drop a .wav file into the upload area.
+- Select the desired reverb type.
+- Click Apply Reverb to process the audio.
+- Download the reverberated file when prompted.
 
 ## Git Ignore Recommendations
 
