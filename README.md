@@ -39,35 +39,35 @@ Reverber is a web application that allows users to apply various reverb effects 
 
 ```bash
 cd backend
-
+```
     Create and activate a virtual environment:
-
+```
 python -m venv venv
 .\venv\Scripts\Activate.ps1
-
+```
     Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
     Run the backend server:
-
+```
 uvicorn main:app --reload
-
+```
 The API will run on http://127.0.0.1:8000.
 Frontend Setup
 
     Navigate to the frontend folder:
-
+```
 cd frontend
-
+```
     Install dependencies:
-
+```
 npm install
-
+```
     Run the frontend server:
-
+```
 npm run dev
-
+```
 The app will run on http://localhost:3000.
 Usage
 
@@ -84,7 +84,7 @@ Usage
 Git Ignore Recommendations
 
 Make sure your .gitignore includes:
-
+```
 # Python
 venv/
 __pycache__/
@@ -92,7 +92,7 @@ __pycache__/
 # Audio files
 *.wav
 *.zip
-
+```
 This prevents large files or virtual environments from being committed.
 License
 
