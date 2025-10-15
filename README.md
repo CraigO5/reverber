@@ -35,7 +35,7 @@ Reverber is a web application that allows users to apply various reverb effects 
 
 ### Backend Setup
 
-1. Navigate to the backend folder:
+Navigate to the backend folder:
 
 ```bash
 cd backend
@@ -69,7 +69,8 @@ Run the frontend server:
 npm run dev
 ```
 The app will run on http://localhost:3000.
-Usage
+
+### Usage
 
 Open the app in your browser.
 
