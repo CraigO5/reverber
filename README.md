@@ -54,7 +54,7 @@ Run the backend server:
 uvicorn main:app --reload
 ```
 The API will run on http://127.0.0.1:8000.
-Frontend Setup
+### Frontend Setup
 
 Navigate to the frontend folder:
 ```
@@ -70,7 +70,7 @@ npm run dev
 ```
 The app will run on http://localhost:3000.
 
-### Usage
+## Usage
 
 Open the app in your browser.
 
