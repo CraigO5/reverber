@@ -95,6 +95,6 @@ __pycache__/
 *.zip
 ```
 This prevents large files or virtual environments from being committed.
-License
+## License
 
 This project is MIT licensed.
