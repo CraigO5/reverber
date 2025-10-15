@@ -82,7 +82,7 @@ Click Apply Reverb to process the audio.
 
 Download the reverberated file when prompted.
 
-Git Ignore Recommendations
+## Git Ignore Recommendations
 
 Make sure your .gitignore includes:
 ```
